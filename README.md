@@ -1,5 +1,5 @@
 # JUnit Simple Examples
-Projeto da Qualidade de Software do curso de Bacharelado em Ciência da Computação - UFRPE 2020.1
+Projeto da Disciplina Qualidade de Software do curso de Bacharelado em Ciência da Computação - UFRPE 2020.1
 
 #### Pre-requisitos
 * JDK 8 ou maior
